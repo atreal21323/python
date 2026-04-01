@@ -1,0 +1,5 @@
+def well_wishes():
+    print('HIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII')
+    print('I DONT KNOW WHAT WELL_WISHES MEANS BUT I KNOW THAT I CAN PUT A COIN IN IT')
+
+well_wishes()
